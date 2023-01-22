@@ -1,6 +1,6 @@
 ### Hello :wave:
 
-I am a computer science student studying at Dibrugarh University Institute of Engineering and Technology.
+I am a computer science student pursuing B.Tech at Dibrugarh University Institute of Engineering and Technology.
 
 My interests:
 
