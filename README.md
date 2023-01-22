@@ -1,4 +1,4 @@
-### Hello :wave:
+### printf("Hello!!"); :wave:
 
 I am a computer science student pursuing B.Tech at Dibrugarh University Institute of Engineering and Technology.
 
