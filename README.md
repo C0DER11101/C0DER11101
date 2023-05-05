@@ -17,6 +17,7 @@ My interests:
 <img align="left" alt="SDL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-plain.svg" style="padding-right:10px;" />     
 <br/>
 
+<p align="center">
 
 ```
  ___  ___  ________  ________  ________  ___    ___      ________  ________  ________  ___  ________   ________     
@@ -29,6 +30,7 @@ My interests:
                                        \|___|/                                                                      
     
 ```
+</p>
                                                                                                                     
 
 ---
