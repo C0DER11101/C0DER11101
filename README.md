@@ -12,6 +12,7 @@ My interests:
 <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vim" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />    
+<img align="left" alt="Neovim" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Neovim-logo.svg" style="padding-right:10px;"/>
 <br/>
 
 <p align="center">
