@@ -1,8 +1,8 @@
-### printf("Hello!!"); :wave:
+### puts("Hello!!"); :wave:
 
-My name is Priyanuj Bora.
+I am Priyanuj Bora, an enthusiastic programmer who loves to experiment with code.
 
-I am a computer science student pursuing B.Tech at Dibrugarh University Institute of Engineering and Technology.
+I love programming in C with a particular fondness for pointers and enjoy exploring the behind-the-scenes of how things really operate in code.
 
 My interests:
 
